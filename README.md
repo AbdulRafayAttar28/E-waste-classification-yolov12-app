@@ -3,6 +3,14 @@
 ## 📌 Overview
 This Android application performs **real-time object detection** on e-waste items using a **YOLOv12 model** trained on a **custom dataset** with 25 classes.
 
+**My role (Abdul Rafay Attar):**
+- Model training and experimentation using YOLOv12
+- Dataset preparation and evaluation
+- Integration support for mobile deployment
+
+**Team member:**
+- Sadiq (GitHub: sadiq-07) – Android application development
+
 ### Classes
 ['battery', 'bp monitoring machine', 'calculator', 'camera', 'cpu', 'drone', 'electric guitar', 'electric piano', 'fan', 'flash light', 'geyser', 'glucometer', 'iron box', 'laptop', 'light bulb', 'microwave', 'monitor', 'mouse', 'pendrive', 'phone', 'projector', 'refridgerator', 'solar panel', 'washing machine', 'wifirouter']
 
